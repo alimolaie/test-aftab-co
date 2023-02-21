@@ -1,0 +1,6 @@
+.msg {
+    position: fixed;
+    top: 0;
+    right: 40%;
+    z-index: 50;
+}
